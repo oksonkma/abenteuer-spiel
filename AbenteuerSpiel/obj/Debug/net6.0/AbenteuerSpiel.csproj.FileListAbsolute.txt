@@ -1,0 +1,15 @@
+D:\repovis\AbenteuerSpiel\AbenteuerSpiel\bin\Debug\net6.0\AbenteuerSpiel.exe
+D:\repovis\AbenteuerSpiel\AbenteuerSpiel\bin\Debug\net6.0\AbenteuerSpiel.deps.json
+D:\repovis\AbenteuerSpiel\AbenteuerSpiel\bin\Debug\net6.0\AbenteuerSpiel.runtimeconfig.json
+D:\repovis\AbenteuerSpiel\AbenteuerSpiel\bin\Debug\net6.0\AbenteuerSpiel.dll
+D:\repovis\AbenteuerSpiel\AbenteuerSpiel\bin\Debug\net6.0\AbenteuerSpiel.pdb
+D:\repovis\AbenteuerSpiel\AbenteuerSpiel\obj\Debug\net6.0\AbenteuerSpiel.csproj.AssemblyReference.cache
+D:\repovis\AbenteuerSpiel\AbenteuerSpiel\obj\Debug\net6.0\AbenteuerSpiel.GeneratedMSBuildEditorConfig.editorconfig
+D:\repovis\AbenteuerSpiel\AbenteuerSpiel\obj\Debug\net6.0\AbenteuerSpiel.AssemblyInfoInputs.cache
+D:\repovis\AbenteuerSpiel\AbenteuerSpiel\obj\Debug\net6.0\AbenteuerSpiel.AssemblyInfo.cs
+D:\repovis\AbenteuerSpiel\AbenteuerSpiel\obj\Debug\net6.0\AbenteuerSpiel.csproj.CoreCompileInputs.cache
+D:\repovis\AbenteuerSpiel\AbenteuerSpiel\obj\Debug\net6.0\AbenteuerSpiel.dll
+D:\repovis\AbenteuerSpiel\AbenteuerSpiel\obj\Debug\net6.0\refint\AbenteuerSpiel.dll
+D:\repovis\AbenteuerSpiel\AbenteuerSpiel\obj\Debug\net6.0\AbenteuerSpiel.pdb
+D:\repovis\AbenteuerSpiel\AbenteuerSpiel\obj\Debug\net6.0\AbenteuerSpiel.genruntimeconfig.cache
+D:\repovis\AbenteuerSpiel\AbenteuerSpiel\obj\Debug\net6.0\ref\AbenteuerSpiel.dll
